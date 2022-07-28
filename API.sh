@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -ne '\nСкрипт для использование админской API Netangels. By GLEBABAS for VASYLIY\n\n'
+echo -ne '\nСкрипт для использования админской API Netangels. By GLEBABAS for VASYLIY\n\n'
 echo -ne '1 - API запрос на восстановление контейнера Хостинга\n'
 echo -ne '2 - API запрос на воостановление структуры сайта контейнера Хостинга\n'
 echo -ne '3 - API запрос на поиск сайта по услугам ОХ/ВХ\n'
